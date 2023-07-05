@@ -1,11 +1,8 @@
 export default function Head() {
   return (
     <>
-      <title>Rebuilding Linear.app</title>
-      <meta
-        name="description"
-        content="Rebuilding Linear.app's website with Next.js, Tailwind."
-      />
+      <title>Rebuilding Linear app</title>
+      <meta name="description" />
       <meta name="robots" content="noindex" />
     </>
   );
